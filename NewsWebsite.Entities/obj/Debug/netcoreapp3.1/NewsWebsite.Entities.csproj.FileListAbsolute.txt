@@ -1,0 +1,9 @@
+C:\Users\Kimia\source\repos\NewsWebsite\NewsWebsite.Entities\bin\Debug\netcoreapp3.1\NewsWebsite.Entities.deps.json
+C:\Users\Kimia\source\repos\NewsWebsite\NewsWebsite.Entities\bin\Debug\netcoreapp3.1\NewsWebsite.Entities.dll
+C:\Users\Kimia\source\repos\NewsWebsite\NewsWebsite.Entities\bin\Debug\netcoreapp3.1\NewsWebsite.Entities.pdb
+C:\Users\Kimia\source\repos\NewsWebsite\NewsWebsite.Entities\obj\Debug\netcoreapp3.1\NewsWebsite.Entities.csprojAssemblyReference.cache
+C:\Users\Kimia\source\repos\NewsWebsite\NewsWebsite.Entities\obj\Debug\netcoreapp3.1\NewsWebsite.Entities.AssemblyInfoInputs.cache
+C:\Users\Kimia\source\repos\NewsWebsite\NewsWebsite.Entities\obj\Debug\netcoreapp3.1\NewsWebsite.Entities.AssemblyInfo.cs
+C:\Users\Kimia\source\repos\NewsWebsite\NewsWebsite.Entities\obj\Debug\netcoreapp3.1\NewsWebsite.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Kimia\source\repos\NewsWebsite\NewsWebsite.Entities\obj\Debug\netcoreapp3.1\NewsWebsite.Entities.dll
+C:\Users\Kimia\source\repos\NewsWebsite\NewsWebsite.Entities\obj\Debug\netcoreapp3.1\NewsWebsite.Entities.pdb

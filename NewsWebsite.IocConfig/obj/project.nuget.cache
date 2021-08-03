@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HKcJHd8GFumyyTXUo9Re9X1S53vvI09Ji4Wi1QCk7B0+vP5gN5ezUiK2AkcwXfDPVdCyv3QpipI79NeYn1BrYQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kimia\\source\\repos\\NewsWebsite\\NewsWebsite.IocConfig\\NewsWebsite.IocConfig.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kimia\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

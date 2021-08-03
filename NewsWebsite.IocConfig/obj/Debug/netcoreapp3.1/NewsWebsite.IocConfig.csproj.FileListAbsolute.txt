@@ -1,0 +1,8 @@
+C:\Users\Kimia\source\repos\NewsWebsite\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.IocConfig.deps.json
+C:\Users\Kimia\source\repos\NewsWebsite\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.IocConfig.dll
+C:\Users\Kimia\source\repos\NewsWebsite\NewsWebsite.IocConfig\bin\Debug\netcoreapp3.1\NewsWebsite.IocConfig.pdb
+C:\Users\Kimia\source\repos\NewsWebsite\NewsWebsite.IocConfig\obj\Debug\netcoreapp3.1\NewsWebsite.IocConfig.AssemblyInfoInputs.cache
+C:\Users\Kimia\source\repos\NewsWebsite\NewsWebsite.IocConfig\obj\Debug\netcoreapp3.1\NewsWebsite.IocConfig.AssemblyInfo.cs
+C:\Users\Kimia\source\repos\NewsWebsite\NewsWebsite.IocConfig\obj\Debug\netcoreapp3.1\NewsWebsite.IocConfig.csproj.CoreCompileInputs.cache
+C:\Users\Kimia\source\repos\NewsWebsite\NewsWebsite.IocConfig\obj\Debug\netcoreapp3.1\NewsWebsite.IocConfig.dll
+C:\Users\Kimia\source\repos\NewsWebsite\NewsWebsite.IocConfig\obj\Debug\netcoreapp3.1\NewsWebsite.IocConfig.pdb

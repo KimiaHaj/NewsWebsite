@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "y5rQ6jxqXraN8bh3w5OWthFGOUyaWswuRaDISpd+f7K95HlmsD74xNK/ixXs30/652sPMewYr4p2F1mjbz4sOw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kimia\\source\\repos\\NewsWebsite\\NewsWebsite.ViewModels\\NewsWebsite.ViewModels.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kimia\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

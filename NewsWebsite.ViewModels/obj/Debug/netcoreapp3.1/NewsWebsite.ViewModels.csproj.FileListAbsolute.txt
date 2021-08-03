@@ -1,0 +1,9 @@
+C:\Users\Kimia\source\repos\NewsWebsite\NewsWebsite.ViewModels\bin\Debug\netcoreapp3.1\NewsWebsite.ViewModels.deps.json
+C:\Users\Kimia\source\repos\NewsWebsite\NewsWebsite.ViewModels\bin\Debug\netcoreapp3.1\NewsWebsite.ViewModels.dll
+C:\Users\Kimia\source\repos\NewsWebsite\NewsWebsite.ViewModels\bin\Debug\netcoreapp3.1\NewsWebsite.ViewModels.pdb
+C:\Users\Kimia\source\repos\NewsWebsite\NewsWebsite.ViewModels\obj\Debug\netcoreapp3.1\NewsWebsite.ViewModels.csprojAssemblyReference.cache
+C:\Users\Kimia\source\repos\NewsWebsite\NewsWebsite.ViewModels\obj\Debug\netcoreapp3.1\NewsWebsite.ViewModels.AssemblyInfoInputs.cache
+C:\Users\Kimia\source\repos\NewsWebsite\NewsWebsite.ViewModels\obj\Debug\netcoreapp3.1\NewsWebsite.ViewModels.AssemblyInfo.cs
+C:\Users\Kimia\source\repos\NewsWebsite\NewsWebsite.ViewModels\obj\Debug\netcoreapp3.1\NewsWebsite.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\Kimia\source\repos\NewsWebsite\NewsWebsite.ViewModels\obj\Debug\netcoreapp3.1\NewsWebsite.ViewModels.dll
+C:\Users\Kimia\source\repos\NewsWebsite\NewsWebsite.ViewModels\obj\Debug\netcoreapp3.1\NewsWebsite.ViewModels.pdb
