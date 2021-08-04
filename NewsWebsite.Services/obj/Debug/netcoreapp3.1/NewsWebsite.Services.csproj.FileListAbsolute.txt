@@ -6,3 +6,7 @@ C:\Users\Kimia\source\repos\NewsWebsite\NewsWebsite.Services\obj\Debug\netcoreap
 C:\Users\Kimia\source\repos\NewsWebsite\NewsWebsite.Services\obj\Debug\netcoreapp3.1\NewsWebsite.Services.csproj.CoreCompileInputs.cache
 C:\Users\Kimia\source\repos\NewsWebsite\NewsWebsite.Services\obj\Debug\netcoreapp3.1\NewsWebsite.Services.dll
 C:\Users\Kimia\source\repos\NewsWebsite\NewsWebsite.Services\obj\Debug\netcoreapp3.1\NewsWebsite.Services.pdb
+C:\Users\Kimia\source\repos\NewsWebsite\NewsWebsite.Services\bin\Debug\netcoreapp3.1\NewsWebsite.Services.runtimeconfig.json
+C:\Users\Kimia\source\repos\NewsWebsite\NewsWebsite.Services\bin\Debug\netcoreapp3.1\NewsWebsite.Services.runtimeconfig.dev.json
+C:\Users\Kimia\source\repos\NewsWebsite\NewsWebsite.Services\obj\Debug\netcoreapp3.1\NewsWebsite.Services.csprojAssemblyReference.cache
+C:\Users\Kimia\source\repos\NewsWebsite\NewsWebsite.Services\obj\Debug\netcoreapp3.1\NewsWebsite.Services.genruntimeconfig.cache

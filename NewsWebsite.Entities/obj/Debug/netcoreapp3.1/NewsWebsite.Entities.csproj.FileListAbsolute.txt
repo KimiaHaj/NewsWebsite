@@ -7,3 +7,6 @@ C:\Users\Kimia\source\repos\NewsWebsite\NewsWebsite.Entities\obj\Debug\netcoreap
 C:\Users\Kimia\source\repos\NewsWebsite\NewsWebsite.Entities\obj\Debug\netcoreapp3.1\NewsWebsite.Entities.csproj.CoreCompileInputs.cache
 C:\Users\Kimia\source\repos\NewsWebsite\NewsWebsite.Entities\obj\Debug\netcoreapp3.1\NewsWebsite.Entities.dll
 C:\Users\Kimia\source\repos\NewsWebsite\NewsWebsite.Entities\obj\Debug\netcoreapp3.1\NewsWebsite.Entities.pdb
+C:\Users\Kimia\source\repos\NewsWebsite\NewsWebsite.Entities\bin\Debug\netcoreapp3.1\NewsWebsite.Entities.runtimeconfig.json
+C:\Users\Kimia\source\repos\NewsWebsite\NewsWebsite.Entities\bin\Debug\netcoreapp3.1\NewsWebsite.Entities.runtimeconfig.dev.json
+C:\Users\Kimia\source\repos\NewsWebsite\NewsWebsite.Entities\obj\Debug\netcoreapp3.1\NewsWebsite.Entities.genruntimeconfig.cache
