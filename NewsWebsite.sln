@@ -7,17 +7,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NewsWebsite", "NewsWebsite\
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Src", "Src", "{C7F97FFC-7EDF-4E89-818A-65240DB88310}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsWebsite.Common", "NewsWebsite.Common\NewsWebsite.Common.csproj", "{8312F4EE-825F-438F-9925-9645916BF3D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NewsWebsite.Common", "NewsWebsite.Common\NewsWebsite.Common.csproj", "{8312F4EE-825F-438F-9925-9645916BF3D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsWebsite.Data", "NewsWebsite.Data\NewsWebsite.Data.csproj", "{89E62C03-EED2-423C-9791-FA5B191E86F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NewsWebsite.Data", "NewsWebsite.Data\NewsWebsite.Data.csproj", "{89E62C03-EED2-423C-9791-FA5B191E86F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsWebsite.Entities", "NewsWebsite.Entities\NewsWebsite.Entities.csproj", "{DFD81569-5151-4ED8-89B6-3C86C831F2A8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NewsWebsite.Entities", "NewsWebsite.Entities\NewsWebsite.Entities.csproj", "{DFD81569-5151-4ED8-89B6-3C86C831F2A8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsWebsite.Services", "NewsWebsite.Services\NewsWebsite.Services.csproj", "{BC69CE68-A651-4E4B-903F-070020D01A07}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NewsWebsite.Services", "NewsWebsite.Services\NewsWebsite.Services.csproj", "{BC69CE68-A651-4E4B-903F-070020D01A07}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsWebsite.IocConfig", "NewsWebsite.IocConfig\NewsWebsite.IocConfig.csproj", "{FB848FAC-6120-4909-8FF1-5CECA029D8FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NewsWebsite.IocConfig", "NewsWebsite.IocConfig\NewsWebsite.IocConfig.csproj", "{FB848FAC-6120-4909-8FF1-5CECA029D8FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsWebsite.ViewModels", "NewsWebsite.ViewModels\NewsWebsite.ViewModels.csproj", "{1E6BE378-6B62-4AEF-9762-80A03822E1B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NewsWebsite.ViewModels", "NewsWebsite.ViewModels\NewsWebsite.ViewModels.csproj", "{1E6BE378-6B62-4AEF-9762-80A03822E1B3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -58,6 +58,7 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
+		{4C11979C-73A9-48B4-B2AE-315F40A4B2C9} = {C7F97FFC-7EDF-4E89-818A-65240DB88310}
 		{8312F4EE-825F-438F-9925-9645916BF3D3} = {C7F97FFC-7EDF-4E89-818A-65240DB88310}
 		{89E62C03-EED2-423C-9791-FA5B191E86F6} = {C7F97FFC-7EDF-4E89-818A-65240DB88310}
 		{DFD81569-5151-4ED8-89B6-3C86C831F2A8} = {C7F97FFC-7EDF-4E89-818A-65240DB88310}
