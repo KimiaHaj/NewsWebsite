@@ -10,6 +10,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using NewsWebsite.IocConfig;
 
 namespace NewsWebsite
 {
@@ -26,8 +27,12 @@ namespace NewsWebsite
         
         public void ConfigureServices(IServiceCollection services)
         {
+            
             services.AddDbContext<NewsDBContext>(options => options.UseSqlServer(Configuration.GetConnectionString("SqlServer")));
+            services.AddCustomServices();
             services.AddMvc();
+
+
         }
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)

@@ -1598,6 +1598,20 @@
         "runtime": {
           "bin/placeholder/NewsWebsite.Entities.dll": {}
         }
+      },
+      "NewsWebsite.ViewModels/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "5.0.8",
+          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.8"
+        },
+        "compile": {
+          "bin/placeholder/NewsWebsite.ViewModels.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NewsWebsite.ViewModels.dll": {}
+        }
       }
     }
   },
@@ -5964,6 +5978,11 @@
       "type": "project",
       "path": "../NewsWebsite.Entities/NewsWebsite.Entities.csproj",
       "msbuildProject": "../NewsWebsite.Entities/NewsWebsite.Entities.csproj"
+    },
+    "NewsWebsite.ViewModels/1.0.0": {
+      "type": "project",
+      "path": "../NewsWebsite.ViewModels/NewsWebsite.ViewModels.csproj",
+      "msbuildProject": "../NewsWebsite.ViewModels/NewsWebsite.ViewModels.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5972,7 +5991,8 @@
       "Microsoft.EntityFrameworkCore >= 5.0.8",
       "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.8",
       "Microsoft.EntityFrameworkCore.Tools >= 5.0.8",
-      "NewsWebsite.Entities >= 1.0.0"
+      "NewsWebsite.Entities >= 1.0.0",
+      "NewsWebsite.ViewModels >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -6004,6 +6024,9 @@
           "projectReferences": {
             "C:\\Users\\Kimia\\source\\repos\\NewsWebsite\\NewsWebsite.Entities\\NewsWebsite.Entities.csproj": {
               "projectPath": "C:\\Users\\Kimia\\source\\repos\\NewsWebsite\\NewsWebsite.Entities\\NewsWebsite.Entities.csproj"
+            },
+            "C:\\Users\\Kimia\\source\\repos\\NewsWebsite\\NewsWebsite.ViewModels\\NewsWebsite.ViewModels.csproj": {
+              "projectPath": "C:\\Users\\Kimia\\source\\repos\\NewsWebsite\\NewsWebsite.ViewModels\\NewsWebsite.ViewModels.csproj"
             }
           }
         }

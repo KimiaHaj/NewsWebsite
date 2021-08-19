@@ -13,3 +13,5 @@ C:\Users\Kimia\source\repos\NewsWebsite\NewsWebsite.Data\obj\Debug\netcoreapp3.1
 C:\Users\Kimia\source\repos\NewsWebsite\NewsWebsite.Data\bin\Debug\netcoreapp3.1\NewsWebsite.Entities.dll
 C:\Users\Kimia\source\repos\NewsWebsite\NewsWebsite.Data\bin\Debug\netcoreapp3.1\NewsWebsite.Entities.pdb
 C:\Users\Kimia\source\repos\NewsWebsite\NewsWebsite.Data\obj\Debug\netcoreapp3.1\NewsWebsite.Data.csproj.CopyComplete
+C:\Users\Kimia\source\repos\NewsWebsite\NewsWebsite.Data\bin\Debug\netcoreapp3.1\NewsWebsite.ViewModels.dll
+C:\Users\Kimia\source\repos\NewsWebsite\NewsWebsite.Data\bin\Debug\netcoreapp3.1\NewsWebsite.ViewModels.pdb

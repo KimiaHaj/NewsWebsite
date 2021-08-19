@@ -151,3 +151,9 @@ C:\Users\Kimia\source\repos\NewsWebsite\NewsWebsite\obj\Debug\net5.0\Razor\Areas
 C:\Users\Kimia\source\repos\NewsWebsite\NewsWebsite\obj\Debug\net5.0\Razor\Views\Shared\_AdminMenu.cshtml.g.cs
 C:\Users\Kimia\source\repos\NewsWebsite\NewsWebsite\obj\Debug\net5.0\Razor\Views\Shared\_AdminLogin.cshtml.g.cs
 C:\Users\Kimia\source\repos\NewsWebsite\NewsWebsite\obj\Debug\net5.0\Razor\Areas\Admin\Views\Category\_CategoryTable.cshtml.g.cs
+C:\Users\Kimia\source\repos\NewsWebsite\NewsWebsite\bin\Debug\net5.0\NewsWebsite.Common.dll
+C:\Users\Kimia\source\repos\NewsWebsite\NewsWebsite\bin\Debug\net5.0\NewsWebsite.IocConfig.dll
+C:\Users\Kimia\source\repos\NewsWebsite\NewsWebsite\bin\Debug\net5.0\NewsWebsite.ViewModels.dll
+C:\Users\Kimia\source\repos\NewsWebsite\NewsWebsite\bin\Debug\net5.0\NewsWebsite.Common.pdb
+C:\Users\Kimia\source\repos\NewsWebsite\NewsWebsite\bin\Debug\net5.0\NewsWebsite.IocConfig.pdb
+C:\Users\Kimia\source\repos\NewsWebsite\NewsWebsite\bin\Debug\net5.0\NewsWebsite.ViewModels.pdb

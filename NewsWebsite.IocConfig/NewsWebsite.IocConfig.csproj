@@ -13,4 +13,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\NewsWebsite.Data\NewsWebsite.Data.csproj" />
+  </ItemGroup>
+
 </Project>

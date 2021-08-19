@@ -12,7 +12,8 @@
           "Microsoft.EntityFrameworkCore": "5.0.8",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.8",
           "Microsoft.EntityFrameworkCore.Tools": "5.0.8",
-          "NewsWebsite.Entities": "1.0.0"
+          "NewsWebsite.Entities": "1.0.0",
+          "NewsWebsite.ViewModels": "1.0.0"
         },
         "runtime": {
           "NewsWebsite.Data.dll": {}
@@ -1151,6 +1152,15 @@
         "runtime": {
           "NewsWebsite.Entities.dll": {}
         }
+      },
+      "NewsWebsite.ViewModels/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "5.0.8",
+          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.8"
+        },
+        "runtime": {
+          "NewsWebsite.ViewModels.dll": {}
+        }
       }
     }
   },
@@ -1875,6 +1885,11 @@
       "hashPath": "system.xml.xmlserializer.4.3.0.nupkg.sha512"
     },
     "NewsWebsite.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NewsWebsite.ViewModels/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

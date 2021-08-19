@@ -16,6 +16,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\NewsWebsite.Entities\NewsWebsite.Entities.csproj" />
+    <ProjectReference Include="..\NewsWebsite.ViewModels\NewsWebsite.ViewModels.csproj" />
   </ItemGroup>
 
 </Project>
